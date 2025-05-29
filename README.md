@@ -17,7 +17,8 @@
 
 ## Installation:
 
-1.  **Download** the latest version of the addon: [batch_render_pro.py](https://github.com/Rosttka/BatchRenderPro/releases/latest/download/batch_render_pro.py) 2.  **Open Blender.**
+1.  **Download** the latest version of the addon: [batch_render_pro.py](https://github.com/Rosttka/BatchRenderPRO/releases/latest/download/batch_render_pro.py)
+2.  **Open Blender.**
 3.  Go to `Edit > Preferences > Add-ons`.
 4.  Click the `Install...` button and select the downloaded **`batch_render_pro.py`** file.
 5.  After installation, find the addon by its name "**Batch Render PRO**" in the list and check the box to enable it.
