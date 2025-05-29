@@ -21,12 +21,12 @@
 3.  Go to `Edit > Preferences > Add-ons`.
 4.  Click the `Install...` button and select the downloaded **`batch_render_pro.py`** file.
 5.  After installation, find the addon by its name "**Batch Render PRO**" in the list and check the box to enable it.
-6.  The addon will appear under `Render Properties > Batch Render Setup`.
+6.  The addon will appear under `Render Properties > Batch Render PRO`.
 
 ## Usage:
 
 1.  Navigate to `Render Properties` in Blender.
-2.  Expand the `Batch Render Setup` panel.
+2.  Expand the `Batch Render PRO` panel.
 3.  **Add folders** to organize your render scenes.
 4.  **Add scenes** within your folders.
 5.  For each scene, **add actions** by selecting the corresponding armature and animation from the dropdown lists.
