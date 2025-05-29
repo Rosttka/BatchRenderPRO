@@ -1,6 +1,6 @@
 # Batch Render PRO: Powerful & Stable Animation Batch Render Manager for Blender
 
-![Screenshot of Batch Render PRO UI](link_to_your_screenshot.png) ![GIF demonstrating functionality](link_to_your_gif.gif) Tired of losing the order of your animations when rendering in Blender? **Batch Render PRO** is the solution that lets you easily manage multiple animation actions for different armatures and render them in batches, maintaining absolute control over order and settings, regardless of dynamic changes in your scene. **Glory to Ukraine!**
+![Batch Render PRO UI Overview](images/main-ui-explanation.png) Tired of losing the order of your animations when rendering in Blender? **Batch Render PRO** is the solution that lets you easily manage multiple animation actions for different armatures and render them in batches, maintaining absolute control over order and settings, regardless of dynamic changes in your scene. **Glory to Ukraine!**
 
 ## Key Features:
 
